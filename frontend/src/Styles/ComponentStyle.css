@@ -1,0 +1,26 @@
+.nav-link {
+  color: #35a945de;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  font-size: 1.1rem;
+  color: #35a945de;
+}
+
+.navbar-toggler {
+  box-shadow: none !important;
+  border: none;
+  outline: none;
+}
+
+.footer {
+  background-color: rgb(107 107 107 / 56%);
+  width: 100vw;
+  text-align: center;
+  padding: 15px;
+}
+
+.form-control{
+  width: 100%;
+}

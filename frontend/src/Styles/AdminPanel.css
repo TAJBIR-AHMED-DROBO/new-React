@@ -1,0 +1,24 @@
+.adminBody{
+    min-width: calc(99vw - 5px);
+    min-height: calc(100vh - 5px);
+    border: 2px solid blue;
+}
+
+.left{
+    border-right: 2px solid blue;
+    min-height: calc(100vh - 5px);
+}
+
+a{
+    text-decoration: none;
+}
+
+.admin-nav{
+    color: white;
+    font-size: 1rem
+}
+
+.admin-nav:hover{
+    color: rgb(71, 71, 182);
+    font-size: 1rem
+}
